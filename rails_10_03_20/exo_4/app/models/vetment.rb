@@ -1,0 +1,2 @@
+class Vetment < ApplicationRecord
+end
